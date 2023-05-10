@@ -1,0 +1,22 @@
+Samsung is restricting the use of so-called generative artificial intelligence tools such 
+as ChatGPT for employees after the company discovered such services were being misused.
+The South Korean technology giant confirmed to CNBC Tuesday that it is temporarily restricting 
+the use of generative AI through the company’s personal computers. Employees of one of Samsung’s 
+biggest divisions were informed of the move in a memo at the end of April after there had been 
+cases of misuse of the technology. Bloomberg reported on Tuesday that some staff had uploaded 
+sensitive code to ChatGPT. ChatGPT is a viral AI chatbot that is trained on huge amounts of data 
+and is able to generate response to user queries. It is a form of so-called generative AI. Samsung 
+does not have its own generative AI product yet. ChatGPT is developed by U.S. firm OpenAI which is 
+backed by Microsoft while other generative AI products include Google’s Bard. Inputting sensitive 
+company data into these foreign-owned services could be a concern to companies worried about leaks 
+of crucial information. Samsung told employees to take precautions when using ChatGPT and other 
+products outside of work and advised workers not to enter any personal or company related information 
+into the services. In a Samsung company-wide survey conducted last month, 65% of those who responded 
+said there was concern about security risks when using generative AI services. Samsung is not the 
+only company restricting use of the technology. U.S. investment bank JPMorgan reportedly restricted 
+use of ChatGPT among staff earlier this year. And Amazon this year reportedly warned employees not to 
+upload confidential information, including code, to ChatGPT. Companies are assessing ways in which 
+generative AI capabilities could be used within their business. ChatGPT can help engineers to generate 
+computer code for example, to speed up their tasks. Software developers at Goldman Sachs have been 
+using generative AI to help generate code. Despite the latest restrictions, Samsung is looking for 
+ways in which generative AI could be used safely to enhance employee productivity and efficiency.
