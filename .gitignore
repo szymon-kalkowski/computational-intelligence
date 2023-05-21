@@ -1,3 +1,5 @@
 dogs-cats-train
 dogs-cats-test
 .ipynb_checkpoints
+.env
+**/.env
